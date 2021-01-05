@@ -10,3 +10,4 @@ commit し忘れたー
 ほんとはmasterに入れる行
 俺がmasterだ！
 変更だー
+masterだー

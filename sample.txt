@@ -15,3 +15,4 @@ issue4-1
 issue4-2
 issue4-3
 issue4-4
+pull-requestをお願いする

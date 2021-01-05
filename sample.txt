@@ -7,4 +7,5 @@ switch issuelブランチでコミットするよ
 switch issue2で変更するよ
 switch issue3ブランチでコミットするよ
 commit し忘れたー
+ほんとはmasterに入れる行
 俺がmasterだ！

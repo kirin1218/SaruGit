@@ -7,4 +7,3 @@ switch issuelブランチでコミットするよ
 switch issue2で変更するよ
 switch issue3ブランチでコミットするよ
 commit し忘れたー
-revert してみるよ

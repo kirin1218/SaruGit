@@ -10,3 +10,9 @@ commit し忘れたー
 ほんとはmasterに入れる行
 俺がmasterだ！
 変更だー
+masterだー
+issue4-1
+issue4-2
+issue4-3
+issue4-4
+pull-requestをお願いする
